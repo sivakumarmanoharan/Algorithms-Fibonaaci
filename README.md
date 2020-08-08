@@ -1,1 +1,2 @@
-This repository contains the Fibonacci series code in Python, to solve different versions of problems in Fibonacci series.
+This repository contains the programming warm up for Algorithms in coursera
+
